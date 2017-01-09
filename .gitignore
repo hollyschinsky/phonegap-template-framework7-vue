@@ -1,0 +1,6 @@
+.DS_Store
+.vscode
+jsconfig.json
+node_modules/
+platforms/
+plugins/
