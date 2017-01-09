@@ -1,0 +1,22 @@
+{
+  "name": "phonegap-template-framework7-vue",
+  "version": "1.0.0",
+  "description": "Sample template for phonegap/cordova projects to get started with Framework7+Vue",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hollyschinsky/phonegap-template-framework7-vue.git"
+  },
+  "keywords": [
+    "ecosystem:phonegap",
+    "ecosystem:cordova",
+    "cordova:template",
+    "phonegap:template"
+  ],
+  "author": "Holly Schinsky",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hollyschinsky/phonegap-template-framework7-vue/issues"
+  },
+  "homepage": "https://github.com/hollyschinsky/phonegap-template-framework7-vue#readme"
+}
