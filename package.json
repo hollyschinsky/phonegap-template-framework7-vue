@@ -1,7 +1,7 @@
 {
   "name": "phonegap-template-framework7-vue",
   "version": "1.0.0",
-  "description": "Sample template for phonegap/cordova projects to get started with Framework7+Vue",
+  "description": "Sample template to get started with PhoneGap+Framework7+Vue",
   "main": "index.js",
   "repository": {
     "type": "git",

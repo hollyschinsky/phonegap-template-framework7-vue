@@ -12,6 +12,12 @@ Vue.component('page-dynamic-routing', {
   template: '#page-dynamic-routing'
 })
 
+// Handle device ready event
+// Note: You may want to check out the vue-cordova package on npm for cordova specific handling with vue - https://www.npmjs.com/package/vue-cordova
+document.addEventListener('deviceready', () => {
+  console.log("DEVICE IS READY!");    
+}, false)
+
 // Init App
 new Vue({
   el: '#app',
@@ -36,3 +42,6 @@ new Vue({
     ],
   }
 });
+
+
+
